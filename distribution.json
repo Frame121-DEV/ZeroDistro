@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1356936710952587327",
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "ZR-DemonRE Running Minecraft 1.20.1 (Fabric v0.16.10)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "zeroprojectss1.felixcraft.xyz:39305",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1356936710952587327",
+        "largeImageText": "",
+        "largeImageKey": ""
       },
       "mainServer": false,
       "autoconnect": false,
