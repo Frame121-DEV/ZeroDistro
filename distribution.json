@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -13,7 +13,7 @@
       "description": "ZR-DemonRE Running Minecraft 1.20.1 (Fabric v0.16.10)",
       "icon": "https://cdn.discordapp.com/attachments/1294284728157081685/1368146345096908810/1024xDemonre.png?ex=68172913&is=6815d793&hm=bcdaae03936698cb39270b3252edfd946f7819f054502d575b035317ab3e4a70&",
       "version": "1.0.1",
-      "address": "zeroprojectss1.felixcraft.xyz:39305",
+      "address": "zeroprojectss1.felixcraft.xyz:28279",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "1356936710952587327",
