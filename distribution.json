@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -121,8 +121,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2649415,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/[1.20.1-fabric]-Epic-Knights-9.19.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/[1.20.1-fabric]-Epic-Knights-9.19.jar",
             "MD5": "1fdf729ce5df9855ac568d36bf9f5823"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -131,8 +134,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 16082,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/almanac-1.20.x-fabric-1.0.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/almanac-1.20.x-fabric-1.0.2.jar",
             "MD5": "e886ae479a10d261f2f29233ed0d2f83"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -141,8 +147,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 998850,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/amendments-1.20-1.2.19-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/amendments-1.20-1.2.19-fabric.jar",
             "MD5": "0c1b3bca914082f7929f2ba94b39e0bd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -151,8 +160,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2733280,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/another_furniture-fabric-1.20.1-3.0.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/another_furniture-fabric-1.20.1-3.0.1.jar",
             "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -161,8 +173,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1064362,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/appleskin-fabric-mc1.20.1-2.5.1.jar",
             "MD5": "723370be246a876144ae424cbbfd60f4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -171,8 +186,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1036432,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/archers-1.3.0+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/archers-1.3.0+1.20.1.jar",
             "MD5": "dfb642d522cd0971761504d4bb5e10e4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -181,8 +199,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 585207,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -191,8 +212,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 957920,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/artifacts-fabric-9.5.14.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/artifacts-fabric-9.5.14.jar",
             "MD5": "3ce3a90e107494eb41307fdce26f93ef"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -201,8 +225,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39348376,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Axiom-4.7.0-for-MC1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Axiom-4.7.0-for-MC1.20.1.jar",
             "MD5": "3e17c6e9b5e3b6bdce20ff74d13fc2dd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -211,8 +238,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 427488,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/azurelibarmor-fabric-1.20.1-2.0.14.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/azurelibarmor-fabric-1.20.1-2.0.14.jar",
             "MD5": "dcb2433bcec707b03393b55832d8e25d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -221,8 +251,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 440152,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/BadOptimizations-2.2.2-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/BadOptimizations-2.2.2-1.20.1.jar",
             "MD5": "b039d1d934cc6c623eae051052c5397f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -231,8 +264,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 501093,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.25.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/balm-fabric-1.20.1-7.3.25.jar",
             "MD5": "8e67f138f95e8f7fd0458d984b620346"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -241,8 +277,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 155349,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/BBCA%20v3.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/BBCA%20v3.3.jar",
             "MD5": "395c5669208b9a288bf998cd5c7b0ac8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -251,8 +290,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 50218,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/betterbeds-1.3.0-1.19.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/betterbeds-1.3.0-1.19.3.jar",
             "MD5": "8172f68d93a79b716aaf6d885026600c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -261,8 +303,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 902833,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/bettercombat-fabric-1.8.6+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/bettercombat-fabric-1.8.6+1.20.1.jar",
             "MD5": "8d474709e691da55e5d3bd6169184dbc"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -271,8 +316,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1782676,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/BetterF3-7.0.2-Fabric-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/BetterF3-7.0.2-Fabric-1.20.1.jar",
             "MD5": "acda45b22c255f78f3242056b1221c8e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -281,8 +329,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 503384,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Bountiful-6.0.4+1.20.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Bountiful-6.0.4+1.20.1-fabric.jar",
             "MD5": "a1afe2fc29929415f5c2a50e3c5af1a9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -291,8 +342,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 525600,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/brewinandchewin-3.0.6+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/brewinandchewin-3.0.6+1.20.1.jar",
             "MD5": "b68b4d1e5f91c3be112f0187a9668ac3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -301,8 +355,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1426500,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
             "MD5": "92a6600d0f05c7e70d92d459b3b9eba8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -311,8 +368,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 443033,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/carryon-fabric-1.20.1-2.1.2.7.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/carryon-fabric-1.20.1-2.1.2.7.jar",
             "MD5": "c050f3d0934bbd8893fe2353eab906bb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -321,8 +381,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 344004,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Chunky-1.3.146.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Chunky-1.3.146.jar",
             "MD5": "b1e31424db96ae83246efd0390598e01"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -331,8 +394,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6831107,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/cicada-lib-0.11.8+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/cicada-lib-0.11.8+1.20.1.jar",
             "MD5": "025cd3e297647cdc32a69b99b7c10136"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -341,8 +407,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172214,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -351,8 +420,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 657310,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/collective-1.20.1-8.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/collective-1.20.1-8.3.jar",
             "MD5": "5b0b99ac79f68438ee0133ff6dfd53c5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -361,8 +433,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 191873,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/combatroll-fabric-1.3.3+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/combatroll-fabric-1.3.3+1.20.1.jar",
             "MD5": "96f6261f2e2153f195785d6836813f1d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -371,8 +446,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21748,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/common-networking-fabric-1.0.5-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/common-networking-fabric-1.0.5-1.20.1.jar",
             "MD5": "6bc657e7099a49e44a4aaa062354943e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -381,8 +459,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 122778,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Controlling-fabric-1.20.1-12.0.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Controlling-fabric-1.20.1-12.0.2.jar",
             "MD5": "87c6431504ff6a040da4533c933d6b12"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -391,8 +472,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2010401,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/CraterLib-Fabric-1.20-2.1.4.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/CraterLib-Fabric-1.20-2.1.4.jar",
             "MD5": "c61c880ddb0e570b28f011bf4ec44c1d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -401,8 +485,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24841934,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
             "MD5": "48de208df4154d2149101d351148569b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -411,8 +498,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 466911,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/cultural-delights-fabric-1.0.5+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/cultural-delights-fabric-1.0.5+1.20.1.jar",
             "MD5": "b6546542ad78d9dcd506b5d1c9148753"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -421,8 +511,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1628046,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/davespotioneering-fabric-1.20.1-1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/davespotioneering-fabric-1.20.1-1.jar",
             "MD5": "15de9964aaba404ae154a163ce40411d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -431,8 +524,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 377252,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/death_knights-fabric-1.0.0-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/death_knights-fabric-1.0.0-1.20.1.jar",
             "MD5": "c7cc39d14533cfb1d3a4198c85bc6b35"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -441,8 +537,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 13415,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/discord-screenshot-sender-1.2-1.20-1.20.6.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/discord-screenshot-sender-1.2-1.20-1.20.6.jar",
             "MD5": "fb58eb71f7efea33c34a69088aabed10"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -451,8 +550,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 54742,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Display%20Case-fabric-1.20-1.0.8.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Display%20Case-fabric-1.20-1.0.8.jar",
             "MD5": "0ad62a47bfb0f8eba8d2ffc67b8bd63a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -461,8 +563,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 502529,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
             "MD5": "a394344cf88a72eb3fcfa3bdae509df1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -471,8 +576,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 351671,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/dummmmmmy-1.20-2.0.6-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/dummmmmmy-1.20-2.0.6-fabric.jar",
             "MD5": "d674c077303968bc8b63f51a53b22fbe"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -481,8 +589,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 194379,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/dynamic-fps-3.9.2+minecraft-1.20.0-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/dynamic-fps-3.9.2+minecraft-1.20.0-fabric.jar",
             "MD5": "8524e7cf2425d9e2198ed041a1cc2617"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -491,8 +602,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1604673,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/easy_npc-fabric-1.20.1-5.9.0.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/easy_npc-fabric-1.20.1-5.9.0.jar",
             "MD5": "4cd1d16380f64d5efdd257a6cb0ca64b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -501,8 +615,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 873611,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
             "MD5": "3a7abdac2462955c5a51af3cd14712ff"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -511,8 +628,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 70663,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/entityculling-fabric-1.7.4-mc1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/entityculling-fabric-1.7.4-mc1.20.1.jar",
             "MD5": "44684ef5978093854e6c4bfd45f024ce"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -521,8 +641,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 444272,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/entity_model_features_fabric_1.20.1-2.4.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/entity_model_features_fabric_1.20.1-2.4.1.jar",
             "MD5": "9979ce497513b57a72175d80167a3fe5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -531,8 +654,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 652400,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/entity_texture_features_fabric_1.20.1-6.2.9.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/entity_texture_features_fabric_1.20.1-6.2.9.jar",
             "MD5": "69e81059aa60c49bc9c97918d4640edd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -541,8 +667,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12161,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/eternal_attributes-fabric-1.0.0-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/eternal_attributes-fabric-1.0.0-1.20.1.jar",
             "MD5": "95457664a934e8b62227997dafcf45bd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -551,8 +680,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1315811,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/exposure-1.20.1-1.7.10-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/exposure-1.20.1-1.7.10-fabric.jar",
             "MD5": "907b69bcb38b85366d3d6b14099381cb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -561,8 +693,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107841,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -571,8 +706,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7159151,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
             "MD5": "a5c2953271eede6b0dded7a2bc3f09fe"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -581,8 +719,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3270277,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fancymenu_fabric_3.5.0_MC_1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fancymenu_fabric_3.5.0_MC_1.20.1.jar",
             "MD5": "03c2d93750efe53ed3f569c09545c91e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -591,8 +732,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 554429,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fantasy_weapons-fabric-0.3.1-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fantasy_weapons-fabric-0.3.1-1.20.1.jar",
             "MD5": "2d71b3a25515aef797139e3f0695500b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -601,8 +745,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8012818,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.3.0+refabricated.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/FarmersDelight-1.20.1-2.3.0+refabricated.jar",
             "MD5": "d37d7b39bd81f0c5164e30918450893f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -611,8 +758,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2718948,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/farmers-delight-fabric-1.4.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/farmers-delight-fabric-1.4.3.jar",
             "MD5": "dfcfdea62c47c8af60b5a72ce205b75c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -621,8 +771,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 103203,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/farmersknives-3.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/farmersknives-3.2.jar",
             "MD5": "03900adae76a1804b5f9cbd10456640b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -631,8 +784,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79306,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fastquit-3.0.0+1.20+.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fastquit-3.0.0+1.20+.jar",
             "MD5": "a1b2847e248207157f5bbe7285b41927"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -641,8 +797,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -651,8 +810,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2462747,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/figura-0.1.5+1.20.1-fabric-mc.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/figura-0.1.5+1.20.1-fabric-mc.jar",
             "MD5": "11503330e53468c7e496fdfb1ebb49af"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -661,8 +823,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 881849,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fish_of_thieves-mc1.20.1-v3.0.10-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fish_of_thieves-mc1.20.1-v3.0.10-fabric.jar",
             "MD5": "1e83baca3714d78eb7c17260324cf3b1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -671,8 +836,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 210957,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fmsia_fabric_1.0.1_MC_1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fmsia_fabric_1.0.1_MC_1.20.1.jar",
             "MD5": "5699da3a890aaec5e1e8c09e93fe19ea"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -681,8 +849,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 397239,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
             "MD5": "7dd3394a0da1c3b768631d7c7ec47a30"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -691,8 +862,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1071661,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/freecam-fabric-1.2.1+1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/freecam-fabric-1.2.1+1.20.jar",
             "MD5": "b0e119aabc13085ca92d5f09bc46e0a8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -701,8 +875,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 530986,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/fzzy_core-0.5.1+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/fzzy_core-0.5.1+1.20.1.jar",
             "MD5": "1580913061398be6cd057607cc51adf5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -711,8 +888,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1042863,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.7.1.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/geckolib-fabric-1.20.1-4.7.1.2.jar",
             "MD5": "b57ee9d0bc1a08ad299878773816bae6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -721,8 +901,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 941250,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/grapplemod-1.99.0+1.20.1.beta.fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/grapplemod-1.99.0+1.20.1.beta.fabric.jar",
             "MD5": "22c8ebb1fb15b5a9b4b229bd3b33b2b6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -731,8 +914,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 219004,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/hardcorerevival-fabric-1.20.1-12.0.7.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/hardcorerevival-fabric-1.20.1-12.0.7.jar",
             "MD5": "7b1e960ebc3bb1e4fe050d73e361818f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -741,8 +927,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1410041,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/hdskins-6.10.3+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/hdskins-6.10.3+1.20.1.jar",
             "MD5": "08d12dfe9942593be328745422654b33"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -751,8 +940,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1174045,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/hearth_and_home-fabric-1.20.1-2.0.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/hearth_and_home-fabric-1.20.1-2.0.3.jar",
             "MD5": "3877ad0db3d3f37f33bc28bbb0f83323"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -761,8 +953,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 185574,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Icarus-Fabric-2.12.0.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Icarus-Fabric-2.12.0.jar",
             "MD5": "b8cb3e5b22f30b66cad8c7eb9cbd8d49"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -771,8 +966,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 246066,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.0+1.20.4.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/ImmediatelyFast-Fabric-1.5.0+1.20.4.jar",
             "MD5": "f2a87b95d8389a167df1a8dfe39d0a1e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -781,8 +979,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1228865,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/immersive_armors-1.6.1+1.20.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/immersive_armors-1.6.1+1.20.1-fabric.jar",
             "MD5": "ed8f984f22cc35c7494a79392308679d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -791,8 +992,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4257781,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/immersive_melodies-0.4.0+1.20.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/immersive_melodies-0.4.0+1.20.1-fabric.jar",
             "MD5": "a516cf64bd5aa3e4e4884f348fa5d5f7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -801,8 +1005,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104807,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/indium-1.0.27+mc1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/indium-1.0.27+mc1.20.1.jar",
             "MD5": "3e9cb7736e01332c1789be0e7583dbf8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -811,8 +1018,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125572,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/InvMove-0.9.0+1.20.1-Fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/InvMove-0.9.0+1.20.1-Fabric.jar",
             "MD5": "90afe971f27b4e62075dcd4cb992a7f5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -821,8 +1031,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2412690,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.10.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/iris-mc1.20.1-1.6.10.jar",
             "MD5": "c2fec037c71f3574e758ad5833f2ac73"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -831,8 +1044,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1392720,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.106.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/jei-1.20.1-fabric-15.20.0.106.jar",
             "MD5": "f2536f0f14f67847634ae70d3ca79348"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -841,8 +1057,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 327998,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Kambrik-6.1.1+1.20.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Kambrik-6.1.1+1.20.1-fabric.jar",
             "MD5": "7494e938737edb83f2cca398b4d1aacc"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -851,8 +1070,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 892067,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -861,8 +1083,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 28484,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Ksyxis-1.3.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Ksyxis-1.3.3.jar",
             "MD5": "66f7a6f5dd5a8f090adfd87472f9509d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -871,8 +1096,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1086351,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/lambdynamiclights-4.1.0+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/lambdynamiclights-4.1.0+1.20.1.jar",
             "MD5": "99be4d4c675810c095aafff54528aaf5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -881,8 +1109,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1702813,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-API-fabric-1.2.15-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-API-fabric-1.2.15-fabric.jar",
             "MD5": "572b3414c6e93d6679f6e89a2ae49995"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -891,8 +1122,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1529233,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-bakery-fabric-1.1.15.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-bakery-fabric-1.1.15.jar",
             "MD5": "b5e456b13c358e448cb458567be2399e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -901,8 +1135,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7408738,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-beachparty-fabric-2.0.0.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-beachparty-fabric-2.0.0.jar",
             "MD5": "58b875dd6756f12bc4a86c19c4335d46"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -911,8 +1148,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2211492,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-brewery-fabric-1.1.9.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-brewery-fabric-1.1.9.jar",
             "MD5": "d11b4819794294d94d651c59800159c4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -921,8 +1161,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2607855,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-candlelight-fabric-1.2.13.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-candlelight-fabric-1.2.13.jar",
             "MD5": "708b061c75b67e7970f69dfd365866d1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -931,8 +1174,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 729055,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-herbalbrews-fabric-1.0.11.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-herbalbrews-fabric-1.0.11.jar",
             "MD5": "a4f30494eb29b8ad2d9484b9e31c7c3b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -941,8 +1187,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 859063,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-nethervinery-fabric-1.2.17.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-nethervinery-fabric-1.2.17.jar",
             "MD5": "8d36cc112cbcfc064524dbade11d19a7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -951,8 +1200,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4178439,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/letsdo-vinery-fabric-1.4.39.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/letsdo-vinery-fabric-1.4.39.jar",
             "MD5": "6d2d7ae608f65becc5803c3b9dc48b38"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -961,8 +1213,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 706600,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/lithium-fabric-mc1.20.1-0.11.3.jar",
             "MD5": "de6d394cedf7e33bfd4b03209156211a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -971,8 +1226,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 480702,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/lithostitched-fabric-1.20.1-1.4.4.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/lithostitched-fabric-1.20.1-1.4.4.jar",
             "MD5": "9b39ece9cbf99f9a127acb4efa9e9d00"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -981,8 +1239,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1910842,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
             "MD5": "bf6626032fe412d93406d3bcdeee7963"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -991,8 +1252,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 548778,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/mcw-lights-1.1.1-mc1.20.1fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/mcw-lights-1.1.1-mc1.20.1fabric.jar",
             "MD5": "950b1dda3ccb281914bc27619e3f5593"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1001,8 +1265,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39696,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1011,8 +1278,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1021,8 +1291,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 507598,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/modernfix-fabric-5.21.0+mc1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/modernfix-fabric-5.21.0+mc1.20.1.jar",
             "MD5": "b37180878dfeb03b4d8762f77cb05317"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1031,8 +1304,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 721366,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1041,8 +1317,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1231186,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/moonlight-1.20-2.13.79-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/moonlight-1.20-2.13.79-fabric.jar",
             "MD5": "1b538769cac3dfa15be12ecf7d08e28c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1051,8 +1330,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 272851,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/moreculling-1.20.4-0.24.0.jar",
             "MD5": "109804ad4b9f14a549f02bf26c98ac44"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1061,8 +1343,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 147566,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/moredelight-25.01.13-1.20-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/moredelight-25.01.13-1.20-fabric.jar",
             "MD5": "128887c42b2eea9084acf4a5b1bf4f94"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1071,8 +1356,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77943,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/MouseTweaks-fabric-mc1.20-2.26.jar",
             "MD5": "3138c776d370c90603938eb54d17469a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1081,8 +1369,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 331321,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/movingelevators-1.4.11-fabric-mc1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/movingelevators-1.4.11-fabric-mc1.20.1.jar",
             "MD5": "92e603cf3ab25d900417a344f4cc5097"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1091,8 +1382,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104277,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/MRU-1.0.4+1.20.1+fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/MRU-1.0.4+1.20.1+fabric.jar",
             "MD5": "d79bfcbc7d9dc74c632a36c120f11182"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1101,8 +1395,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4757723,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/naturalist-5.0pre2+fabric-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/naturalist-5.0pre2+fabric-1.20.1.jar",
             "MD5": "cce2ce107994a7e28428d9fe5114a6c3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1111,8 +1408,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20527677,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/naturespirit-2.2.2-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/naturespirit-2.2.2-1.20.1.jar",
             "MD5": "aef2ac4fb92b97153a396a240558ba18"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1121,8 +1421,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 37533,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Necronomicon-Fabric-1.6.0+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Necronomicon-Fabric-1.6.0+1.20.1.jar",
             "MD5": "e38a3d26ec2246667afb418630438daa"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1131,8 +1434,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 619812,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
             "MD5": "62ebb770ad9e08008abf6df50a6a1aa7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1141,8 +1447,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 214902,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
             "MD5": "4aa425a04054e2c300a8bb816574653c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1151,8 +1460,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 493061,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/numismatic-overhaul-0.2.14+1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/numismatic-overhaul-0.2.14+1.20.jar",
             "MD5": "2ae98c9ade11c2f2ce21d65baaf98e6a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1161,8 +1473,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 172356,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/nyfsspiders-fabric-1.20.1-2.1.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/nyfsspiders-fabric-1.20.1-2.1.1.jar",
             "MD5": "17af1481adffaac2e7b7f169c4d9285d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1171,8 +1486,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 782303,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/online-emotes-2.1.2-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/online-emotes-2.1.2-fabric.jar",
             "MD5": "08c36d00100cb0f084853b3ed5169c57"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1181,8 +1499,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 905421,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/owo-lib-0.11.2+1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/owo-lib-0.11.2+1.20.jar",
             "MD5": "9150f588f732ae38c0320a17fa340626"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1191,8 +1512,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2539988,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/paladins-1.4.0+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/paladins-1.4.0+1.20.1.jar",
             "MD5": "1aed40688e77e36b3b79b747e7cca65e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1201,8 +1525,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 852378,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Patchouli-1.20.1-81-FABRIC.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Patchouli-1.20.1-81-FABRIC.jar",
             "MD5": "16f2d5207d0fb50be9da0b56da842b77"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1211,8 +1538,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 555041,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Pehkui-3.8.3+1.14.4-1.21.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Pehkui-3.8.3+1.14.4-1.21.jar",
             "MD5": "c28dbac324e13836c2c15e47bfcd9e45"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1221,8 +1551,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11936723,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/plasmovoice-fabric-1.20.1-2.1.3.jar",
             "MD5": "b0eaff774d54f678cfd334801507f63e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1231,8 +1564,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 181008,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
             "MD5": "03dfb09aabe5c2c8167568cd5c32666b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1241,8 +1577,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 114936,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/ranged_weapon_api-1.1.4+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/ranged_weapon_api-1.1.4+1.20.1.jar",
             "MD5": "3a7797f55299d2de2aa7ce9698264779"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1251,8 +1590,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14003111,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/replaymod-1.20.1-2.6.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/replaymod-1.20.1-2.6.20.jar",
             "MD5": "09d29d6ab2e8842c05f719996d40f287"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1261,8 +1603,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 135078,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/resourcefulconfig-fabric-1.20.1-2.1.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/resourcefulconfig-fabric-1.20.1-2.1.3.jar",
             "MD5": "720878464dc76b75681072f025eae1aa"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1271,8 +1616,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1027797,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/rogues-1.2.0+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/rogues-1.2.0+1.20.1.jar",
             "MD5": "2d70735e7a93aac6d56d65a8763025a0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1281,8 +1629,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 160946,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/rrls-4.0.6.1+mc1.20.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/rrls-4.0.6.1+mc1.20.1-fabric.jar",
             "MD5": "2a0728123d4089f8eb44c2654c52a8c6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1291,8 +1642,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 242139,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/runes-0.9.13+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/runes-0.9.13+1.20.1.jar",
             "MD5": "9421182fa45686ae55b60e49722d7125"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1301,8 +1655,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 169248,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Scout-2.0.4+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Scout-2.0.4+1.20.1.jar",
             "MD5": "88442e05e6712ea7242f1a56c4df23f7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1311,8 +1668,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80283,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Searchables-fabric-1.20.1-1.0.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Searchables-fabric-1.20.1-1.0.3.jar",
             "MD5": "57cbf00f9bb837538a3a694cad095a11"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1321,8 +1681,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 43294,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/ShieldAPI-1.0.1+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/ShieldAPI-1.0.1+1.20.1.jar",
             "MD5": "101ea3b59c44e0286afa6a546a20103e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1331,8 +1694,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 262295,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/show-me-your-skin-1.9.0+1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/show-me-your-skin-1.9.0+1.20.jar",
             "MD5": "e0d96af6540bfa291165a2a2c49f2286"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1341,8 +1707,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 267085,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/SimpleRPC-Universal-4.0.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/SimpleRPC-Universal-4.0.1.jar",
             "MD5": "bdec0c57b8b90768447f9911f288a236"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1351,8 +1720,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1581901,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/simplymore-fabric-1.1.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/simplymore-fabric-1.1.3.jar",
             "MD5": "2ea6ab72af4d844ba9660966d6531f21"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1361,8 +1733,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 15366470,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/simplyswords-fabric-1.56.0-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/simplyswords-fabric-1.56.0-1.20.1.jar",
             "MD5": "307f190b49947ace559334609eb66634"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1410,8 +1785,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1459273,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/spell_engine-0.15.12+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/spell_engine-0.15.12+1.20.1.jar",
             "MD5": "321649c364c3880c26400b5b646db3ba"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1420,8 +1798,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 184963,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/spell_power-0.12.0+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/spell_power-0.12.0+1.20.1.jar",
             "MD5": "3f4446e824c9bd45506e639e5aad55b4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1430,8 +1811,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 127368,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/starlight-1.1.2+fabric.dbc156f.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/starlight-1.1.2+fabric.dbc156f.jar",
             "MD5": "a0b391bf55891502c2074bd078bb5899"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1440,8 +1824,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 44632,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/status-effect-bars-1.0.3.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/status-effect-bars-1.0.3.jar",
             "MD5": "fc1642fa6d4a6a3cf8e3c392d367124a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1450,8 +1837,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 207990,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
             "MD5": "b8e27e4c98a70e3034774f5b31a3044e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1460,8 +1850,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 562776,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar",
             "MD5": "de8a3f64db9f132efe1ba69715c7768e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1470,8 +1863,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 13421356,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/supplementaries-1.20-3.1.24-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/supplementaries-1.20-3.1.24-fabric.jar",
             "MD5": "b4781b1a0a01b588d41211dbf64f631e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1480,8 +1876,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 758586,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/suppsquared-1.20-1.1.21-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/suppsquared-1.20-1.1.21-fabric.jar",
             "MD5": "a59ec6ab761a6229c4fc7423a5ac3891"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1490,8 +1889,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 322358,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
             "MD5": "c48ac277c7879a76087e1a1d7301e8ef"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1500,8 +1902,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3156901,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Terralith_1.20.x_v2.5.4.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Terralith_1.20.x_v2.5.4.jar",
             "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1510,8 +1915,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 94349,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/toggleableitemframes-5.1.0-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/toggleableitemframes-5.1.0-1.20.1.jar",
             "MD5": "636909fcbfcd63694d00f60ee22b8e41"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1520,8 +1928,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 238532,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/trinkets-3.7.2.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/trinkets-3.7.2.jar",
             "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1530,8 +1941,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1054860,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/txnilib-fabric-1.0.23-1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/txnilib-fabric-1.0.23-1.20.1.jar",
             "MD5": "396b6864db623fdb92bb0222cff0e95c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1540,8 +1954,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2902732,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/wizards-1.4.1+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/wizards-1.4.1+1.20.1.jar",
             "MD5": "d0a388f0bf01f672752b0b6aac99ab76"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1550,8 +1967,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 951657,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
             "MD5": "6f85dec84a60c5909f1ce7337768fef3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1560,8 +1980,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 401360,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/xercapaint-fabric-1.20.1-1.0.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/xercapaint-fabric-1.20.1-1.0.1.jar",
             "MD5": "814284b87c0727d1d37f9345af0954ad"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1570,8 +1993,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1294234,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
             "MD5": "b6960b2defbf8cb1b983cffd261089ba"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1580,8 +2006,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 807877,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/required/Zoomify-2.14.2+1.20.1.jar",
+            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/fabricmods/optionalon/Zoomify-2.14.2+1.20.1.jar",
             "MD5": "57d42c12e06bf4c8bbdd3f2d14a786ba"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1923,17 +2352,6 @@
             "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/files/resourcepacks/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%AD%E0%B8%A2%201.20.x%20(%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%95%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C).zip",
             "MD5": "ed902fa9e34d3b5f84b1d2b5349c211e",
             "path": "resourcepacks/ภาษาไทยสระไม่ลอย 1.20.x (โนโตซานส์).zip"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 4,
-            "url": "https://felixcraft.xyz/ZeroDistro/servers/ZR-DemonRE-1.20.1/files/servers.dat",
-            "MD5": "41883520c3071f5f4a4a4613fb005e0c",
-            "path": "servers.dat"
           }
         },
         {
