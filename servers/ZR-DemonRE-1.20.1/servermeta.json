@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/User/Documents/GitHub/ZeroDistro/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "ZR-DemonRE (Minecraft 1.20.1)",
     "description": "ZR-DemonRE Running Minecraft 1.20.1 (Fabric v0.16.10)",
     "icon": "https://cdn.discordapp.com/attachments/1294284728157081685/1368146345096908810/1024xDemonre.png?ex=68172913&is=6815d793&hm=bcdaae03936698cb39270b3252edfd946f7819f054502d575b035317ab3e4a70&",
